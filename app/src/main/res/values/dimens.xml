@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!--时针分针秒针的长度-->
+    <dimen name="clock_second_long">100dp</dimen>
+    <dimen name="clock_second_short">25dp</dimen>
+    <dimen name="clock_minute_long">80dp</dimen>
+    <dimen name="clock_minute_short">22dp</dimen>
+    <dimen name="clock_hour_long">60dp</dimen>
+    <dimen name="clock_hour_short">18dp</dimen>
+
+    <!--秒针的尾部宽度-->
+    <dimen name="clock_second_width">11dp</dimen>
+    <!--秒针尾部的高度-->
+    <dimen name="clock_second_height">12dp</dimen>
+
+    <!--分针的尾部宽度-->
+    <dimen name="clock_minute_width">13dp</dimen>
+    <!--分针尾部的高度-->
+    <dimen name="clock_minute_height">10dp</dimen>
+
+    <!--时针的尾部宽度-->
+    <dimen name="clock_hour_width">15dp</dimen>
+    <!--时针尾部的高度-->
+    <dimen name="clock_hour_height">8dp</dimen>
+
+    <!--圆与外部控件的空隙-->
+    <dimen name="clock_circle_gap">1dp</dimen>
+
+    <!--时钟的刻度线长度-->
+    <dimen name="clock_dial_long">16dp</dimen>
+    <dimen name="clock_dial_short">8dp</dimen>
+
+    <!--时钟数字的大小-->
+    <dimen name="clock_text_size">20sp</dimen>
+
+</resources>

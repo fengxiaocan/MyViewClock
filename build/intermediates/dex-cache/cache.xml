@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Development\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="G:\AS\MyClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_14c4f968170301efee594ba4b6b141763721b780\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\AS\MyClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134\classes.dex" />
+    </item>
+    <item
+        jar="G:\AS\MyClock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ccc7d4c8978d8602c3187b6ba8208e84b43a6ab0">
+        <dex dex="G:\AS\MyClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7ec938293449330ca5c53d7bf10c872e57025d80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Development\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="G:\AS\MyClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_f872c04ba06854f923ea84713529b5e361e8ba58\classes.dex" />
+    </item>
+    <item
+        jar="G:\AS\MyClock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="164f623f472b709d3faabfcc6fba65af66f0d252">
+        <dex dex="G:\AS\MyClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d0dc8f40a76ee69e7a8eac0c4a81809933e4f4f5\classes.dex" />
+    </item>
+
+</items>
